@@ -6,7 +6,7 @@
 * [License](#license)
 
 ## General info
-This is the project for the Accenture Lab "Analytics For Revenue Growth".
+This is the project for the Accenture Lab "Analytics For Revenue Growth".   
 https://dse.cdl.unimi.it/sites/lb74/files/2022-02/Accenture%20-%20Analytics%20for%20Revenue%20Growth%20LAB.pdf
 
 ## Technologies
