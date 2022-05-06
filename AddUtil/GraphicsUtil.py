@@ -9,9 +9,28 @@ LINEWIDTH = 3
 FIGSIZE = (10, 8)
 
 class Visualizer():
+    """
+    The сlass for visualizing results.
+    """
 
     @staticmethod
-    def plot_confsuion_matrix(y_test, y_pred, fig_size=FIGSIZE, font_size=SIZE ):
+    def plot_confsuion_matrix(y_test, y_pred, fig_size=FIGSIZE, font_size=SIZE):
+        """
+        Plot a confusion matrix.
+            Parameters:
+            -----------
+                y_test: Mx1 numpy.ndarray
+                    a set of the test labels
+                y_pred: Mx1 numpy.ndarray
+                    a set of the predicted labels
+                fig_size: int
+                    сontrols the size of the chart
+                font_size: tuple
+                    сontrols the font size
+            Return:
+            -----------
+                None
+        """
 
         conf_matrix = confusion_matrix(y_test, y_pred) #tn, fp, fn, tp
 
