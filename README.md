@@ -7,7 +7,7 @@
 * [References](#references)
 
 ## General info
-This is the project for the Accenture Lab "Analytics For Revenue Growth" ([link](https://dse.cdl.unimi.it/sites/lb74/files/2022-02/Accenture%20-%20Analytics%20for%20Revenue%20Growth%20LAB.pdf)).
+This is the project for the Accenture Lab "Analytics For Revenue Growth" ([link](https://github.com/kkonstantin182/accenture-lab/blob/main/Accenture%20-%20Analytics%20for%20Revenue%20Growth%20LAB.pdf)).
 
 The work illustrates the application of the following algorithms:  the Random Forest and the CatBoost classifiers on the example of a binary classification problem.
 The dataset used is "in-vehicle coupon recommendation Data Set" [[1]](#1).
