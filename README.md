@@ -18,6 +18,7 @@ The dataset used is "in-vehicle coupon recommendation Data Set" [[1]](#1).
 * numpy: 1.21.2
 * matplotlib: 3.5.1
 * seaborn: 0.11.2
+* catboost: 1.0.4
 
 ## License
 GNU General Public License v2.0 [just for fun :)]
