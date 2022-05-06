@@ -7,7 +7,8 @@
 
 ## General info
 This is the project for the Accenture Lab "Analytics For Revenue Growth".   
-https://dse.cdl.unimi.it/sites/lb74/files/2022-02/Accenture%20-%20Analytics%20for%20Revenue%20Growth%20LAB.pdf
+[https://dse.cdl.unimi.it/sites/lb74/files/2022-02/Accenture%20-%20Analytics%20for%20Revenue%20Growth%20LAB.pdf](url)
+The work illustrates the application of the following algorithms:  the Random Forest and the CatBoost classifiers on the example of a binary classification problem.
 
 ## Technologies
 * scikit-learn: 1.0.2
